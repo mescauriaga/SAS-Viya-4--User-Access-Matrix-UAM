@@ -1,4 +1,4 @@
-#User Access Matrix – Column and Row Level Security for CAS Tables Documentation  
+**User Access Matrix – Column and Row Level Security for CAS Tables Documentation  **
  
 Product: Information Catalog   
 Version: SAS Viya 4  
