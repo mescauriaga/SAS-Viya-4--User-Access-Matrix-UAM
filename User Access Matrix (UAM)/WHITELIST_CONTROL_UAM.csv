@@ -1,0 +1,21 @@
+﻿﻿caslib,table,column,Sec_level,userGroup,id,row
+cimb,LNMAST,SNAME,C,Finance,"viyademo01, viyademo05",
+cimb,LNMAST,ALIASN,C,Finance,"viyademo01, viyademo05",
+cimb,LNMAST,LNACN1,C,Finance,"viyademo01, viyademo05",
+cimb,LNMAST,LNACN2,C,Finance,"viyademo01, viyademo05",
+cimb,LNMAST,CFOFCI,R,CommercialBank,viyademo02,A
+cimb,LNMAST,CFOFCI,R,CommercialBank,viyademo02,B
+cimb,LNMAST,CFOFCI,R,CommercialBank,viyademo02,H
+cimb,LNMAST,CFOFCI,R,ConsumerWealthMgt,viyademo03,M
+cimb,LNMAST,CFOFCI,R,ConsumerWealthMgt,viyademo03,P
+cimb,LNMAST,CFOFCI,R,CorporateBank,viyademo04,S
+cimb,LNMAST,CFOFCI,R,Finance,"viyademo01, viyademo05",A
+cimb,LNMAST,CFOFCI,R,Finance,"viyademo01, viyademo05",B
+cimb,LNMAST,CFOFCI,R,Finance,"viyademo01, viyademo05",M
+cimb,LNMAST,CFOFCI,R,Finance,"viyademo01, viyademo05",P
+cimb,LNMAST,CFOFCI,R,Finance,"viyademo01, viyademo05",H
+cimb,LNMAST,CFOFCI,R,Finance,"viyademo01, viyademo05",S
+cimb,CFMAST,CFSNME,C,Finance,"viyademo01, viyademo05",
+cimb,CFMAST,CFOFCI,R,CommercialBank,viyademo02,A
+cimb,CFMAST,CFOFCI,R,CommercialBank,viyademo02,B
+cimb,CFMAST,CFOFCI,R,CommercialBank,viyademo02,H
