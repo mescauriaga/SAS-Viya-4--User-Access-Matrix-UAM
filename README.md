@@ -2,7 +2,7 @@
  
 Product: SAS Viya
 Version: SAS Viya 4  
-Date: 12/04/2023 
+Date: 04/12/2023 
 
 This code provides means to implement Row-level and Column-level securities within SAS Viya's CAS in an automated way. The code relies from a file (WHITELIST_CONTROL_UAM.csv), wherein the library, table, row, column and conditions are present.
 
