@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+ 
+ 
+ 
+<html lang="en">
+   <head>
+      <title>Run UAM</title>
+      <link rel="stylesheet" href="/SASJobExecution/theme">
+   </head>
+    
+    
+    
+   <body role="main" class="jobexec_body">
+       
+       
+       
+      <form class="jobexec_form" action="/SASJobExecution/" method="post" target="_self"
+           enctype="multipart/form-data">
+         <input type="hidden" name="_program"     value="$PROGRAM$">
+         <input type="hidden" name="_action"      value="execute"/>
+         <input type="hidden" name="_output_type" value="html"/>
+         <input type="hidden" name="_csrf"        value="$CSRF$">
+          
+          
+          
+         <div style="display: flex;">
+            <div style="flex: 1; text-align: center;"></div>
+            <div style="flex: 1; text-align: center;">
+               <input type="submit" target="_self" value="Run UAM" class="jobexec_sample_input_submit" style="background-color: #4079b1; color: white; padding: 12.25px 20px; border: none; border-radius: 5px; cursor: pointer; width: 90%;"/>
+            </div>
+            <div style="flex: 1;"></div>
+         </div>
+         </div>
+      </form>
+       
+       
+       
+   </body>
+    
+    
+    
+</html>
